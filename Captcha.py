@@ -1,6 +1,5 @@
 """write program to create re-captcha password with python
 use libraries"""
-
 # import useful libraries
 from random import choice, randint
 from captcha.image import ImageCaptcha
