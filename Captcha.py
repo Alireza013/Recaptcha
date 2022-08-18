@@ -1,4 +1,4 @@
-  """write program to create re-captcha password with python
+   """write program to create re-captcha password with python
 use libraries"""
 
 # import useful libraries
